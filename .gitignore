@@ -70,7 +70,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-Super Nario Story - Episode 2_Data/
+Super\ Nario\ Story\ -\ Episode\ 2_Data/
+Super\ Nario\ Story\ -\ Episode\ 2.exe
    
 # Windows thumbnail cache files
 Thumbs.db
