@@ -9,4 +9,4 @@ The game is available on [itch.io](https://raza6.itch.io/super-nario-story-episo
 
 ## Installation
 
-The Unity project runs on version 5.6.1f1 of Unity but has been upgraded from an older version, thus some features might be degraded.
+The Unity project runs on version 5.6.1f1 of Unity.
