@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Goombo
+  - Pirahnanas
+  - QTE
+  - EndLevel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3992460131
+    locked: 0
+  - name: ColliderLevel
+    uniqueID: 904754493
+    locked: 0
+  - name: Ennemy
+    uniqueID: 1330168887
+    locked: 0
+  - name: Player
+    uniqueID: 3247449975
+    locked: 0
+  - name: QTE
+    uniqueID: 462631317
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
